@@ -1,0 +1,27 @@
+_repo: Trial-of-Deacon-Brodie_49405
+contributor:
+  creator:
+    editor:
+      agent_name: Roughead, William
+      birthdate: 1870
+      deathdate: 1952
+      gutenberg_agent_id: '4503'
+      url: http://www.gutenberg.org/2009/agents/4503
+      wikipedia: http://en.wikipedia.org/wiki/William_Roughead
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2015-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Trial of Deacon Brodie
+url: http://www.gutenberg.org/ebooks/49405
